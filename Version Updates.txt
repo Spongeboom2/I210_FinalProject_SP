@@ -1,0 +1,38 @@
+1.0 
+----------------------------------------------------------------------
+- Added php files
+	aboutUs
+	contact
+	details
+	error
+	index
+	searchGameResults
+	searchGame
+	showcart
+
+- added base CSS file
+	added styled sheet
+
+-added includes files
+	database
+	footer
+	header
+---------------------------------------------------------------------
+
+1.1
+---------------------------------------------------------------------
+-Added files
+	inventory.php
+
+- Updated files
+	details.php
+	inventory.php
+	searchGameResults.php
+	searchGames.php
+	Stylesheet.css
+
+- PHP code has been added to access the database!
+
+- Basic search feature added
+
+	
